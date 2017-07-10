@@ -1,0 +1,17 @@
+@import '~/nativescript-theme-core/css/core.dark.css';
+/*@import "nativescript-theme-core/css/sky.css";*/
+
+
+@keyframes spin {
+  from { transform: rotate(0); }
+  to { transform: rotate(360); }
+}
+
+ActionBar {
+    /*background-color: #2b2a2d*/
+}
+@import 'app/assets/ubuntu.font.css';
+
+.main {
+   /*background-color: #2b2a2d;*/
+}

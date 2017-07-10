@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/usr/local/Caskroom/android-sdk/3859397/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_27440ef56bc6a6791a4be3388de0b252ba7974e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_0bb72556380474aa8067869291bf579243f12ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_c1683c7a68579d989bb9a1fd88e9dfbcf4a45fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_9d4ff6316c2655ab1654a957b68a6d921f0cbc2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_2da4099f7af21e696b64ff7e806ce144af338114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_857b654e85139e4f8fdb6660383c52eeb57d0c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_a7669ce60fe8ec31750bcf97467315409066cae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_cb089642a8996909a3e0a0bf1bfadafc22da692e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_f901c461606ebb81e98947a69304f2a438a071f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_71ada1d7fbf609bf48482e73f7d46f22fd954734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_b837574f69fe276f25a645daa36fe52a3ec7e5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_cb637d0f366c5ff2afc78084ce9e8bdcdf69679f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_ade2fc81980787d61c3e4eee0b23eb2744d81470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/HelloWorld/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_cf60f62a45e796b96551673154d0a5163b181172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_8c0111b1a102e825a13daa1636816fdab7915488.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/exploded-aar/HelloWorld/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/Users/dd/Documents/nativescript/helloworld/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0/debug/HelloWorld-runtime-unspecified_f75232090e961692e0cbde2acf31347c90c8d19d.jar" />
+    </item>
+
+</items>
